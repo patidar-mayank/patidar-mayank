@@ -77,7 +77,7 @@
     </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patidar-mayank&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="patidar-mayank's Top Languages">
     </td>
   </tr>
