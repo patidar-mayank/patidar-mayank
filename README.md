@@ -63,4 +63,26 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=patidar-mayank&label=Profile%20views&color=0e75b6&style=flat" alt="Mayank Patidar" height=21px/></p>
 
+
+
+![Mayank's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=patidar-mayank&theme=chartreuse-dark)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=patidar-mayank&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" alt="patidar-mayank's Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=patidar-mayank&theme=highcontrast&hide_border=false" alt="patidar-mayank's Streak">
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patidar-mayank&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="patidar-mayank's Top Languages">
+    </td>
+  </tr>
+</table>
+
+
+
 **[Visit my website &rarr;](#)**
