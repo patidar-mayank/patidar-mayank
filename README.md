@@ -80,9 +80,6 @@
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patidar-mayank&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" alt="patidar-mayank's Top Languages">
     </td>
-    <td>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=patidar-mayank&theme=chartreuse-dark" alt="patidar-mayank's Top Languages">
-    </td>
   </tr>
 </table>
 
