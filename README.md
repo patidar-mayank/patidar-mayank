@@ -4,7 +4,7 @@
 <!--Intro Section-->
 <img src="intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;B.tech Computer Science which a specialization in Artificial Intelligence at Parul University<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;B.tech Computer Science which specialize in Artificial Intelligence at Parul University<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When I'm not coding, I'm playing football! 🥅<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTit58CwXoSBD5JtZ3yB7IeOWezc10R6DgE7Q&s" alt="C" width="20" height="20" />&nbsp;&nbsp;If you're a fan of Cristiano Ronaldo, we are already friends. ¡Siuuu! ⚽️❤️<br>
