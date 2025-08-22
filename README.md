@@ -10,37 +10,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTit58CwXoSBD5JtZ3yB7IeOWezc10R6DgE7Q&s" alt="C" width="20" height="20" />&nbsp;&nbsp;If you're a fan of Cristiano Ronaldo, we are already friends. ¡Siuuu! ⚽️❤️<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience[(Resume)](https://drive.google.com/file/d/1UmHL0uaPpT7LAQo9vy-u4cyZguZPxZLC/view?usp=sharing) <br><br>
 
-<!--Skills Section-->
-## My Tech Stack
-<p align="left">
-	<h4> Programming Lanauges</h4><p>
-
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" />&nbsp;
-	<img src="icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
-	<img src="icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
-	<img src="icons/html.svg" alt="HTML" width="40" height="40" />&nbsp;
-	<img src="icons/css.svg" alt="CSS" width="40" height="40" />&nbsp;
-	<img src="icons/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
-	<h4> Frameworks</h4><p>
-	<img src="icons/numpy.svg" alt="Numpy" width="40" height="40" />&nbsp;
-	<img src="icons/pandas.svg" alt="Pandas" width="40" height="40" />&nbsp;	
-	<img src="icons/pytorch.png" alt="PyTorch" width="110" height="35" />&nbsp;
-	<img src="icons/tensorflow-tf.svg" alt="TensorFlow" width="40" height="40" />&nbsp;
-	<img src="icons/keras.svg" alt="Keras" width="40" height="40" />&nbsp;
-	<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsQj0hduxaEy__M-5Q7s8QxV9vXON9ML27BKcAyK57yA&s" alt="Scikit Learn" width="60" height="40" />&nbsp;
-	<img src="icons/django.svg" alt="Django" width="40" height="40" />&nbsp;
-	<img src="icons/flask.svg" alt="Flask" width="40" height="40" />&nbsp;
-<!-- 	<img src="icons/matplotlib.svg" alt="Matplotlib" width="60" height="40" />&nbsp;</p> -->
-    <h4>Software Packages</h4><p>
-	<img src="icons/jupyter.png" alt="Jupyter" width="40" height="40" />&nbsp;
-	<img src="icons/eclipse.svg" alt="eclipse" width="40" height="40" />&nbsp;
-	<img src="icons/tableau.svg" alt="Tableau" width="40" height="40" />&nbsp;
-	<img src="icons/office.svg" alt="Office" width="40" height="40" />&nbsp;</p>
-</p><br>
-
-	
-<!-- <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" /> -->
-</p><br><br>
 
 <!-- Profile Views -->
 
