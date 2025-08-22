@@ -14,10 +14,7 @@
 ## My Tech Stack
 <p align="left">
 	<h4> Programming Lanauges</h4><p>
-	<img src="icons/c.svg" alt="C" width="40" height="40" />&nbsp;
-	<img src="icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
-	<img src="icons/python1.png" alt="python" width="40" height="40" />&nbsp;
-	<img src="icons/java.svg" alt="java" width="40" height="40" />&nbsp;
+
 	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40" />&nbsp;
 	<img src="icons/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
 	<img src="icons/git.svg" alt="Git" width="40" height="40" />&nbsp;
